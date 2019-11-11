@@ -33,7 +33,7 @@ public class Esame {
         do {
             try {
                 String strIntScelta = JOptionPane.showInputDialog(null, "Seleziona:"
-                        + "\n"
+                        + "\n------------------------------------------------------"
                         + "\n1) Inizializza sessione"
                         + "\n2) Inserisci nominativi esaminandi"
                         + "\n3) Inserisci votazioni"
