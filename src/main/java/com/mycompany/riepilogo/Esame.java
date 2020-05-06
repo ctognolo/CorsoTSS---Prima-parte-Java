@@ -8,7 +8,7 @@ package com.mycompany.riepilogo;
 import javax.swing.JOptionPane;
 
 /**
- *
+ *Si può cambiare
  * @author tss
  */
 public class Esame {
